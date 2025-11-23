@@ -1,0 +1,24 @@
+header {
+  font-family: 'Black Han Sans', sans-serif;
+}
+
+header .display-2 {
+  letter-spacing: 3px;
+}
+
+header .display-6 {
+  font-family: 'Noto Serif KR', serif;
+  font-size: 1.2rem;
+}
+
+.mainImg img {
+  width: 100%;
+}
+
+.testStart {
+  width: 30%;
+}
+
+.main__button button {
+  width: 130px;
+}
